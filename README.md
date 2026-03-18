@@ -13,7 +13,7 @@ A simple image processing tool to convert photos into cartoon and sketch styles 
 
 | Key | Action |
 | --- | --- |
-| **TAB** | Switch rendering style (Sketch -> HW Cartoon -> Soft Watercolor) |
+| **TAB** | Switch rendering style (Sketch -> Soft Watercolor) |
 | **ESC** | Exit Program |
 
 ## Preview & Output
